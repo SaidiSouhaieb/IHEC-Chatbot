@@ -1,0 +1,1 @@
+CUT_OFF_STRINGS = [ "[Note]", "[", "\n\n"]
